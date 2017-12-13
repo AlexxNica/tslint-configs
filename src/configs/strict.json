@@ -1,7 +1,10 @@
 {
+  "lintOptions": {
+    "typeCheck": true
+  },
   "extends": "tslint:all",
   "rulesDirectory": [
-    "./rules"
+    "../rules"
   ],
   "rules": {
     "adjacent-overload-signatures": true,
