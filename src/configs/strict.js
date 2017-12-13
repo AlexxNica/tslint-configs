@@ -1,3 +1,19 @@
+export const lintOptions = {
+  "typeCheck": true
+};
+
+export const extends = {
+
+};
+
+export const rulesDirectory = {
+
+};
+
+export const rules = {
+
+};
+
 {
   "lintOptions": {
     "typeCheck": true

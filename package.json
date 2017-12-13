@@ -1,6 +1,6 @@
 {
-  "name": "@alexxnica/tslint-strict",
-  "version": "0.0.3",
+  "name": "@alexxnica/tslint-configs",
+  "version": "0.0.4",
   "description": "",
   "main": "src/index.js",
   "scripts": {
