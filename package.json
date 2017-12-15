@@ -1,8 +1,8 @@
 {
   "name": "@alexxnica/tslint-configs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
-  "main": "src/index.js",
+  "main": "src/recommended.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
