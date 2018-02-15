@@ -1,7 +1,7 @@
 {
   "name": "@alexxnica/tslint-configs",
   "version": "0.1.0",
-  "description": "",
+  "description": "Personal TSLint configs, formatters and rules.",
   "main": "src/recommended.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
