@@ -1,6 +1,6 @@
 {
   "name": "@alexxnica/tslint-configs",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "",
   "main": "src/recommended.json",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "SEE LICENSE IN PROPRIETARY.LICENSE.MD"
+  "license": "MIT"
 }
